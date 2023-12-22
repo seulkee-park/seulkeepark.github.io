@@ -1,32 +1,23 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Seulkee Park
+      value: Seulkee Park
     - name: Languages
-      value: English, German
+      value: English, Korean
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Kyung Hee University
+    - title: Subordinate stripping in English: A construction-based analysis
+      institution: Kyung Hee University, Seoul, South Korea
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Advisor: Jong-Bok Kim
+        - Committee: Haeil Park (Chair), Se Youn Cho, Jong-bok Kim, Jae-Hak
+Yoon, and Incheol Choi
 
 - title: Experience
   type: time_table
